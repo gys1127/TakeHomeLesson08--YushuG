@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoStudyGuide</string>
+
+    <string name="question_china">Beijing is the capital of China.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Indian Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Pacific Ocean.</string>
+    <string name="question_africa">The source of the Nile is in South Africa.</string>
+    <string name="question_penguins">Penguins only live in the south pole.</string>
+    <string name="question_yellowstone">Yellowstone is the first national park in the world.</string>
+    <string name="question_baikal">Lake Baikal is the deepest lake in the world.</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="cheat_button">Cheat!</string>
+</resources>
